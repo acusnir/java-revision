@@ -1,2 +1,2 @@
 # java-revision
-java1
+<i>This is my style</i>
